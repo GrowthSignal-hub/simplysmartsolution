@@ -1,0 +1,6 @@
+{
+  "name": "Simply Smart Solution",
+  "description": "Global digital growth and client acquisition platform offering performance digital marketing, web development, and ecommerce systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

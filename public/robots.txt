@@ -1,0 +1,18 @@
+# robots.txt for Simply Smart Solution
+User-agent: *
+Allow: /
+
+# LLM Crawler policies
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://simplysmartsolution.net/sitemap.xml
